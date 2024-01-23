@@ -1,0 +1,4 @@
+*.env
+*.code-workspace
+docker-compose.yml
+TODO.md
